@@ -14,7 +14,7 @@
     "express-validator": "^5.1.2",
     "http-errors": "~1.6.2",
     "lightbox2": "^2.10.0",
-    "mongoose": "^5.0.14",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "npm": "^5.8.0",
     "serve-favicon": "^2.5.0"
